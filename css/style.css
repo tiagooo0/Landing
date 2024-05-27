@@ -545,6 +545,16 @@ input[type=search]::-webkit-search-results-decoration {
   line-height: 375%;
   color: #2c314b;
 }
+.productoTitle{
+  margin-top: 5%;
+  align-items: center;
+text-align: center;
+font-weight: 600;
+  font-size: 50px;
+  line-height: 120%;
+  color: #1B1A1A;
+  line-height: 110%;
+}
 
 .headerMain__title {
   font-weight: 600;
